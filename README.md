@@ -1,6 +1,6 @@
 # A+ Grades
 
- Online gradebook implemented with relational database hostedl locally on xampp.
+ Online gradebook implemented with relational database hosted locally on xampp.
 
  ## Contributors
 
